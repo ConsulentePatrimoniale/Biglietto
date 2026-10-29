@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Proia;Giulio;;;
+FN:Giulio Proia
+ORG:ZurichBank
+TITLE:Consulente Patrimoniale
+TEL;TYPE=CELL,VOICE:+393283668061
+EMAIL;TYPE=WORK,INTERNET:giulio.proia@zurichbank.it
+URL:https://www.consulentepatrimoniale.eu
+ADR;TYPE=WORK:;;P.le Giulio Douhet\, 25;Roma;;00143;Italia
+END:VCARD
